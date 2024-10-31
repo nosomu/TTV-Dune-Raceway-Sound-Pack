@@ -23,3 +23,4 @@ To disable the intro sound:
 1. Right click on the programming board
 2. Select Advanced > Edit Lua Parameters
 3. Find "disable intro sound" and click the box
+4. Hit apply
