@@ -2,9 +2,9 @@
 
 To install the sound pack:
 
-1. Download the Dune-Raceway-Sound-Pack-vX-X.zip
+1. Download the Dune-Raceway-Sound-Pack-vX-X-X.zip
 2. Extract the zip file
-3. Open the Dune-Raceway-Sound-Pack-vX-X folder.
+3. Open the Dune-Raceway-Sound-Pack-vX-X-X folder.
 4. Copy all of the sound files and paste them in the following directory:
 
 C:\YOURNAME\Documents\NQ\DualUniverse\audio
